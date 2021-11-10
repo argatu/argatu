@@ -1,4 +1,7 @@
 ### Hi there 👋
 
-<img align="left" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argatu&layout=compact&theme=calm">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=argatu&count_private=true&show_icons=true&theme=calm">
+![](https://img.shields.io/github/stars/argatu?color=27A599)
+![](https://img.shields.io/github/followers/argatu?color=E07A5F)
+![](https://komarev.com/ghpvc/?username=argatu&label=views&color=3d405b)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=argatu&theme=dark&ring=FE7D37&currStreakLabel=FE7D37&fire=FE7D37)](https://git.io/streak-stats)
