@@ -10,9 +10,13 @@
 
 <span style="display: flex;">
   <span>
+    
     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=argatu&show_icons=true&theme=tokyonight&count_private=true)
+    
   </span>
   <span>
+    
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argatu&theme=tokyonight&count_private=true&layout=compact)
+    
   </span>
 </span>
