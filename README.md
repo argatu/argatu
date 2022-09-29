@@ -10,4 +10,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argatu&theme=tokyonight&count_private=true&layout=compact)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=aromanro.aromanro)
+![](https://visitor-badge.laobi.icu/badge?page_id=argatu)
