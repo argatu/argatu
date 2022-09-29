@@ -9,5 +9,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=argatu&theme=dark&ring=FE7D37&currStreakLabel=FE7D37&fire=FE7D37)](https://git.io/streak-stats) -->
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=argatu&show_icons=true&theme=tokyonight&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argatu&theme=tokyonight&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argatu&theme=tokyonight&count_private=true&layout=compact)      ![GitHub stats](https://github-readme-stats.vercel.app/api?username=argatu&show_icons=true&theme=tokyonight&count_private=true)
 
