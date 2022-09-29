@@ -8,13 +8,11 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=argatu&theme=dark&ring=FE7D37&currStreakLabel=FE7D37&fire=FE7D37)](https://git.io/streak-stats) -->
 
-<table>
-  <tr>
-    <td>
-      ![GitHub stats](https://github-readme-stats.vercel.app/api?username=argatu&show_icons=true&theme=tokyonight&count_private=true)
-    </td>
-    <td>
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argatu&theme=tokyonight&count_private=true&layout=compact)
-    </td>
-  </tr>
-</table>
+<div style="display: flex;">
+  <div>
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=argatu&show_icons=true&theme=tokyonight&count_private=true)
+  </div>
+  <div>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argatu&theme=tokyonight&count_private=true&layout=compact)
+  </div>
+</div>
