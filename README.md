@@ -2,12 +2,11 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=argatu)
 
-<!-- ![](https://img.shields.io/github/stars/argatu?color=27A599)
-![](https://img.shields.io/github/followers/argatu?color=E07A5F)
-![](https://komarev.com/ghpvc/?username=argatu&label=views&color=3d405b)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=argatu&theme=dark&ring=FE7D37&currStreakLabel=FE7D37&fire=FE7D37)](https://git.io/streak-stats) -->
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argatu&theme=tokyonight&count_private=true&layout=compact)      ![GitHub stats](https://github-readme-stats.vercel.app/api?username=argatu&show_icons=true&theme=tokyonight&count_private=true)
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats-ivory-three.vercel.app?user=argatu&count_public=true&theme=nightowl&border_radius=10&card_width=400" alt="GitHub Streak Stats"/><br/><br/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=argatu&count_public=true&show_icons=true&theme=nightowl&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/><br/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=argatu&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats%22" alt="Most Used Languages" />
+</div>
 
