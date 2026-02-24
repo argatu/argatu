@@ -1,12 +1,32 @@
-### Hi there 👋
+# 👋 Hey, I’m Nicolae
 
-![](https://visitor-badge.laobi.icu/badge?page_id=argatu)
+I’m a Full-Stack Engineer building scalable web apps with modern technologies.
 
+🌐 Portfolio — https://argatu.vercel.app/
 
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats-ivory-three.vercel.app?user=argatu&count_public=true&theme=gruvbox&border_radius=10&card_width=400" alt="GitHub Streak Stats"/><br/><br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=argatu&count_public=true&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=10&hide=prs,issues,contribs" alt="readme stats" />
-  <br/><br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=argatu&langs_count=8&layout=normal&theme=gruvbox&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats%22" alt="Most Used Languages" />
-</div>
+---
 
+## About Me
+
+I have 10+ years of professional experience developing high-quality web applications and APIs.  
+I like clear architecture, performant systems, and tools that make development pleasant and reliable.
+
+---
+
+## Tech Stack
+
+**Frontend**  
+Vue · Nuxt · React · Next · JavaScript · TypeScript · TailwindCSS  
+
+**Backend**  
+PHP · Laravel · Go · REST · GraphQL  
+
+**Databases**  
+PostgreSQL · MySQL · Redis  
+
+**DevOps & Tools**  
+Docker · Kubernetes · AWS · Terraform · CI/CD · GitHub  
+
+---
+
+<sub>Simplicity. Performance. Scalable software.</sub>
