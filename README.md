@@ -26,7 +26,3 @@ PostgreSQL · MySQL · Redis
 
 **DevOps & Tools**  
 Docker · Kubernetes · AWS · Terraform · CI/CD · GitHub  
-
----
-
-<sub>Simplicity. Performance. Scalable software.</sub>
