@@ -1,28 +1,14 @@
 # 👋 Hey, I’m Nicolae
 
-I’m a Full-Stack Engineer building scalable web apps with modern technologies.
+I’m a Full-Stack Engineer with over a decade of experience building web apps and APIs.
 
-🌐 Portfolio — https://argatu.vercel.app/
-
----
-
-## About Me
-
-I have 10+ years of professional experience developing high-quality web applications and APIs.  
-I like clear architecture, performant systems, and tools that make development pleasant and reliable.
+[**🌐 Portfolio**](https://argatu.vercel.app/)
 
 ---
 
-## Tech Stack
+### 🛠️ Tech Stack
 
-**Frontend**  
-Vue · Nuxt · React · Next · JavaScript · TypeScript · TailwindCSS  
-
-**Backend**  
-PHP · Laravel · Go · REST · GraphQL  
-
-**Databases**  
-PostgreSQL · MySQL · Redis  
-
-**DevOps & Tools**  
-Docker · Kubernetes · AWS · Terraform · CI/CD · GitHub  
+* **Frontend:** Vue · Nuxt · React · Next · JavaScript · TypeScript · TailwindCSS
+* **Backend:** PHP · Laravel · Go · REST · GraphQL
+* **Infrastructure:** PostgreSQL · MySQL · Redis
+* **DevOps & Tools** Docker · Kubernetes · AWS · Terraform · CI/CD · GitHub
