@@ -14,5 +14,5 @@ I value straightforward solutions, maintainable code, and systems that are relia
 
 * **Frontend:** Vue · Nuxt · React · Next · JavaScript · TypeScript · TailwindCSS
 * **Backend:** PHP · Laravel · Go · REST · GraphQL
-* **Infrastructure:** PostgreSQL · MySQL · Redis
+* **Infrastructure:** PostgreSQL · MySQL · Redis · RabbitMQ
 * **DevOps & Tools:** Docker · Kubernetes · AWS · Terraform · CI/CD · GitHub
