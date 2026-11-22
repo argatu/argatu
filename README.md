@@ -13,6 +13,6 @@ I value straightforward solutions, maintainable code, and systems that are relia
 ### 🛠️ Tech Stack
 
 * **Frontend:** Vue · Nuxt · React · Next · JavaScript · TypeScript · TailwindCSS
-* **Backend:** PHP · Laravel · Go · REST · GraphQL
+* **Backend:** PHP · Laravel · Go · REST · GraphQL · Microservices
 * **Infrastructure:** PostgreSQL · MySQL · Redis · RabbitMQ
-* **DevOps & Tools:** Docker · Kubernetes · AWS · Terraform · CI/CD · GitHub
+* **DevOps & Tools:** Docker · Kubernetes · AWS · CI/CD · GitHub
